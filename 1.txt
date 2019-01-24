@@ -1,2 +1,4 @@
 hello world!
 git checkout -b <branchname> -->新建分支并切换到该分支上
+
+修改于分支test3，以便构造合并冲突
